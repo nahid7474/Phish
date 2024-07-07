@@ -9,3 +9,7 @@ Objective: Simulate real-world phishing attacks to assess and improve the organi
     - Analyzed results and assign security awareness training.
 
 
+Navigate to Microsoft Defender admin portal, Click Attack Simulation menu on left pane.
+Click Launch a simulation.
+
+![image](https://github.com/nahid7474/Phish/assets/170605912/cecb0756-d230-4bc3-a59f-654c005708c7)
